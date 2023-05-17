@@ -37,6 +37,7 @@ To evaluate the model performance in terms of predicting accuracy and generaliza
 1. For San Miguel Especial in 2019 and 2020, the flyer promotion had the highest ROI with a value of approximately 40%. The radio promotion followed with an ROI of 26.15%, while TV had an ROI of 20.57%. 
 Also, the flyer promotion had the highest ROI with a value of approximately 40%. The radio promotion followed with an ROI of 26.15%, while TV had an ROI of 20.57%. The graph visually illustrates the effectiveness of different promotions and highlights the flyer promotion as the most successful in terms of ROI for both years analyzed. This information can be used to inform future marketing strategies for San Miguel Especial and allocate resources effectively to maximize ROI.
 ![alt text](https://github.com/zwxxx121/Marketing-Mixed-Model/blob/d2a3c1f1c079a9d6f835d9a55f80327120298fe6/MMM1.png)
-
+![alt text](https://github.com/zwxxx121/Marketing-Mixed-Model/blob/3f26d50bed33e7822d35c6f3a923e9c5fc2de971/MMM3.png)
 2. For San Miguel Especial 6pk in 2019 and 2020, Google paid search has the highest ROI with a value of 93.06%, followed by radio promotion at 77.21%, TV at 64.96%, and flyer at 57.15%. Based on our analysis of the San Miguel Especial 6 PK promotions, we recommend continuing the flyer, TV, radio, and Google paid search promotions in 2023. Specifically, we recommend increasing the emphasis on Google paid search and TV promotions.
-
+![alt text](https://github.com/zwxxx121/Marketing-Mixed-Model/blob/3f26d50bed33e7822d35c6f3a923e9c5fc2de971/mmm2.png)
+![alt text](https://github.com/zwxxx121/Marketing-Mixed-Model/blob/3f26d50bed33e7822d35c6f3a923e9c5fc2de971/MMM4.png)
